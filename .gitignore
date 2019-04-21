@@ -1,0 +1,6 @@
+# IDE
+.history
+.vscode
+
+# Container files
+src/*
